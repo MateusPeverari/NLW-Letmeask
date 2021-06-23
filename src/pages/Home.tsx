@@ -26,7 +26,7 @@ export function Home() {
     <div id="page-auth">
       <aside>
         <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
-        <strong>Onde toda pergunta tem uma resposta</strong>
+        <strong>Onde toda pergunta tem uma resposta!</strong>
         <p>Tire dúvidas da sua audiência em tempo-real</p>
       </aside>
       <main>
